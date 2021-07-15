@@ -7,5 +7,9 @@ func Hello() string {
 }
 
 func Proverb() string {
+{
+    return quote.Concurrency()
+}
+func roverb() string {
     return quote.Concurrency()
 }
