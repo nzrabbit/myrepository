@@ -10,5 +10,8 @@ func Proverb() string {
 {
     return quote.Concurrency()
 }
-
+func Provera() string {
+{
+    return quote.Concurrency()
+}
     
