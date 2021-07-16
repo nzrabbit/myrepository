@@ -12,6 +12,6 @@ func Proverbt() string {
 }
 func Provera() string {
 {
-    return quote.Concurrency()
+    return "branch"
 }
     
