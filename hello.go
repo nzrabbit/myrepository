@@ -10,3 +10,5 @@ func Proverb() string {
 {
     return quote.Concurrency()
 }
+
+    
